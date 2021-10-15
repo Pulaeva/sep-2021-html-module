@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_2/images/team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_2/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_2/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/images/img.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,22 +25,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zQOLeGgqdLQUjLYTjgVPJcThNa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson1" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_2" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_2" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\lesson1" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\lesson1\images" />
     </key>
@@ -54,12 +63,27 @@
       <workItem from="1634077355921" duration="4395000" />
       <workItem from="1634081810220" duration="304000" />
       <workItem from="1634113155599" duration="4267000" />
-      <workItem from="1634117508727" duration="6524000" />
+      <workItem from="1634117508727" duration="7059000" />
+      <workItem from="1634129717648" duration="9000" />
+      <workItem from="1634155480986" duration="1000" />
+      <workItem from="1634286696749" duration="13642000" />
     </task>
+    <task id="LOCAL-00001" summary="corrected Alt into image">
+      <created>1634125557993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634125557993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="corrected Alt into image" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrected Alt into image" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
