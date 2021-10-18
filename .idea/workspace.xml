@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/images/team.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/page1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_2/page2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3/indeх.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_2/images/team.png" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/images/Pivovarov_and_team.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_2/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/page1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_2/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/page2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/images/Pivovarov.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/images/Pivovarov.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/images/Pivovarov_and_team.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_2" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -66,7 +68,9 @@
       <workItem from="1634117508727" duration="7059000" />
       <workItem from="1634129717648" duration="9000" />
       <workItem from="1634155480986" duration="1000" />
-      <workItem from="1634286696749" duration="13642000" />
+      <workItem from="1634286696749" duration="14516000" />
+      <workItem from="1634332226946" duration="2000" />
+      <workItem from="1634561732679" duration="13624000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -75,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634125557993</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Homework_2">
+      <created>1634315889846</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634315889846</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,7 +94,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="corrected Alt into image" />
-    <option name="LAST_COMMIT_MESSAGE" value="corrected Alt into image" />
+    <MESSAGE value="add Homework_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework_2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
