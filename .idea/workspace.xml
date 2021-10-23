@@ -2,14 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_3/indeх.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_1/index_block_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_1/style_block_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_2/index_block_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_2/style_block_2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_3/index_block_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_3/style_block_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_1/index_block_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_1/style_block_1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-1/index_block_2-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-1/style_block_2-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-2/index_block_2-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-2/style_block_2-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/index_block_3/index_block_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/index_block_3/style_block_3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_2/images/team.png" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/images/Pivovarov_and_team.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_2/page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_2/page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_2/page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/images/Pivovarov.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/images/Pivovarov.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/images/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/images/Pivovarov_and_team.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_1/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,6 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -50,6 +61,11 @@
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_2" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\lesson1" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\lesson1\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_3.2_Flexbox\hw_3.2_Block\block_2-1" />
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_3.2_Flexbox\hw_3.2_Block\block_1" />
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_3.2_Flexbox\hw_3.2_Block" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -70,7 +86,15 @@
       <workItem from="1634155480986" duration="1000" />
       <workItem from="1634286696749" duration="14516000" />
       <workItem from="1634332226946" duration="2000" />
-      <workItem from="1634561732679" duration="13624000" />
+      <workItem from="1634561732679" duration="14233000" />
+      <workItem from="1634589079027" duration="10000" />
+      <workItem from="1634660223208" duration="2689000" />
+      <workItem from="1634676405998" duration="6569000" />
+      <workItem from="1634721583765" duration="25540000" />
+      <workItem from="1634801047499" duration="21949000" />
+      <workItem from="1634886780316" duration="24651000" />
+      <workItem from="1634938564652" duration="335000" />
+      <workItem from="1634978535132" duration="14568000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -86,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634315889846</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Homework_3">
+      <created>1634588655642</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634588655642</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +126,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="corrected Alt into image" />
     <MESSAGE value="add Homework_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework_2" />
+    <MESSAGE value="add Homework_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Homework_3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

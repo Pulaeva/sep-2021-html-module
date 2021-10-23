@@ -1,0 +1,21 @@
+.wrap{
+    background: #eccc08;
+    width: 1600px;
+    height: 700px;
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+
+}
+.box{
+    flex-basis: 120px;
+    height: 100px;
+}
+.a {
+    background: lightyellow;
+    flex-grow: 1;
+}
+.b {
+    background: cornflowerblue;
+    flex-grow: 1;
+}
