@@ -1,0 +1,30 @@
+.d-flex, .header, .left_big_center, .center_bigger, .right_hude_center,.bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header, .bottom{
+    background-color: #1584aa;
+    width: 600px;
+    margin: 10px;
+}
+.header, .left_big_center, .center_bigger, .right_hude_center{
+    height: 200px;
+}
+.center {
+    column-gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.left_big_center, .center_bigger, .right_hude_center{
+    width: 10%;
+    background-color: #103e90;
+    margin:10px;
+    flex-direction: row;
+    column-gap: 50%;
+}
+.bottom{
+    height: 300px;
+}
+

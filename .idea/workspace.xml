@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_1/index_block_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_1/style_block_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_2/index_block_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_2/style_block_2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_3/index_block_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/classwork_3.2_Flexbox/block_3/style_block_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_1/index_block_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_1/style_block_1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-1/index_block_2-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-1/style_block_2-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-2/index_block_2-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/hw_3.2_Block/block_2-2/style_block_2-2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/index_block_3/index_block_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/index_block_3/style_block_3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_3.2_Flexbox/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_4/index-4-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_4/index-4.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_4/index-4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_4/style-4-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_4/style-4.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_4/style-4.2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +84,9 @@
       <workItem from="1634801047499" duration="21949000" />
       <workItem from="1634886780316" duration="24651000" />
       <workItem from="1634938564652" duration="335000" />
-      <workItem from="1634978535132" duration="14568000" />
+      <workItem from="1634978535132" duration="15063000" />
+      <workItem from="1635075885343" duration="1563000" />
+      <workItem from="1635192837967" duration="3750000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -117,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634588655642</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add classwork_3.2_Flexbox and Homework3.2_Flexbox">
+      <created>1635024077753</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635024077753</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +126,8 @@
     <MESSAGE value="corrected Alt into image" />
     <MESSAGE value="add Homework_2" />
     <MESSAGE value="add Homework_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework_3" />
+    <MESSAGE value="add classwork_3.2_Flexbox and Homework3.2_Flexbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="add classwork_3.2_Flexbox and Homework3.2_Flexbox" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
