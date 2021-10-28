@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_4/classwork_4/index_4.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/classwork_4/index_4.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/classwork_4/style_4.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_4/classwork_4/style_4.2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/index_5.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/index_5.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/media_5.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/media_5.2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/style_5.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_5/style_5.2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/index_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/style_6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_5/media_5.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/media_5.2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +89,7 @@
       <workItem from="1635275232176" duration="6523000" />
       <workItem from="1635284119030" duration="12683000" />
       <workItem from="1635340537482" duration="16432000" />
-      <workItem from="1635405049503" duration="9591000" />
+      <workItem from="1635405049503" duration="11764000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -133,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635196875131</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add classwork_4 and homework_5">
+      <created>1635416727033</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635416727033</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +145,8 @@
     <MESSAGE value="add Homework_3" />
     <MESSAGE value="add classwork_3.2_Flexbox and Homework3.2_Flexbox" />
     <MESSAGE value="Add homework_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework_4" />
+    <MESSAGE value="Add classwork_4 and homework_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add classwork_4 and homework_5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
