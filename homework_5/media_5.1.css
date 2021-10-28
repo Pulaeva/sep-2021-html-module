@@ -1,0 +1,30 @@
+@media screen and (max-width: 375px) {
+    :root {
+        --aqua: orange;
+    }
+}
+@media screen and (min-width: 1300px) {
+    :root {
+        --aqua: purple;
+    }
+}
+@media screen and (min-width: 500px) and (min-width: 1300px) {
+    :root{
+        --light: darkgreen;
+
+    }
+}
+@media (orientation: landscape) {
+    .products__title {
+        display: none;
+    }
+}
+@media screen and (max-width: 400px){
+
+    .about__grid, .products__list{
+        flex-direction: column;
+    }
+    .about_card{
+        width: 100%;
+    }
+}

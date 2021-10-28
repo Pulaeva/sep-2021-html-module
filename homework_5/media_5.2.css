@@ -1,0 +1,44 @@
+@media screen and (max-width: 375px) {
+    :root {
+        --aqua: orange;
+    }
+    .header__logo{
+        width: 100px;
+    }
+}
+@media screen and (min-width: 1300px) {
+    :root {
+        --aqua: purple;
+    }
+}
+@media screen and (min-width: 500px) and (min-width: 1300px) {
+    :root{
+        --light: darkgreen;
+    }
+}
+@media (orientation: landscape) {
+    .header__title {
+        display: none;
+    }
+    .nav__item a {
+        color: darkred;
+    }
+}
+@media screen and (max-width: 400px){
+    .soc-icon {
+        display: none;
+    }
+    .nav__button{
+    display: block;
+    }
+    .products{
+        padding: 10px;
+    }
+    .about__grid, .products__list{
+        flex-direction: column;
+    }
+    .about_card{
+        width: 100%;
+    }
+}
+
