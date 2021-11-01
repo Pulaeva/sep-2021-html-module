@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_6/index_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6/style_6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/Food.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/LOGO.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/Mask Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/image/shopping-cart-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6/media_6.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_5/media_5.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework_5/media_5.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_6/index_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/index_6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_6/style_6.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/style_6.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/homework_6/style_6.css" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,13 +50,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_6/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6\image" />
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_2" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\lesson1" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\lesson1\images" />
@@ -89,7 +103,13 @@
       <workItem from="1635275232176" duration="6523000" />
       <workItem from="1635284119030" duration="12683000" />
       <workItem from="1635340537482" duration="16432000" />
-      <workItem from="1635405049503" duration="11764000" />
+      <workItem from="1635405049503" duration="12486000" />
+      <workItem from="1635449397965" duration="1346000" />
+      <workItem from="1635452280181" duration="35000" />
+      <workItem from="1635452340719" duration="5880000" />
+      <workItem from="1635496425694" duration="21686000" />
+      <workItem from="1635707449422" duration="18199000" />
+      <workItem from="1635771435346" duration="7659000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -133,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635416727033</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="correction of gratitude homework_5">
+      <created>1635421011444</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635421011444</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +173,8 @@
     <MESSAGE value="add classwork_3.2_Flexbox and Homework3.2_Flexbox" />
     <MESSAGE value="Add homework_4" />
     <MESSAGE value="Add classwork_4 and homework_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add classwork_4 and homework_5" />
+    <MESSAGE value="correction of gratitude homework_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="correction of gratitude homework_5" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
