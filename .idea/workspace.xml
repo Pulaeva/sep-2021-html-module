@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/Food.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/LOGO.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/Mask Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/intro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/image/shopping-cart-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sep-2021-html-module.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sep-2021-html-module.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/index_6.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/style_6.1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/image/Air_Colled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/image/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/image/Refrigeration_Systems_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/Emblema_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/Mask_Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/placeholder 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_6/index_6.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_6/index_6.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +54,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_6.1_Bootstrap" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/homework_7/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_7\image" />
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6.2_Вootstrap\image" />
+      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\bootstrap\image" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6.1_Bootstrap" />
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6.1_Bootstrap\image" />
-      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6\image" />
-      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_6" />
-      <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\WebstormProjects\sep-2021-html-module\homework_3.2_Flexbox\hw_3.2_Block\block_2-1" />
@@ -111,7 +115,13 @@
       <workItem from="1635707449422" duration="18199000" />
       <workItem from="1635771435346" duration="8492000" />
       <workItem from="1635795718228" duration="11429000" />
-      <workItem from="1635843352874" duration="5931000" />
+      <workItem from="1635843352874" duration="6512000" />
+      <workItem from="1635854658592" duration="37000" />
+      <workItem from="1635856074990" duration="16566000" />
+      <workItem from="1635921140912" duration="1907000" />
+      <workItem from="1635953689178" duration="2134000" />
+      <workItem from="1636012221032" duration="14409000" />
+      <workItem from="1636045639038" duration="13597000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -169,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635782286120</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add homework_6.1_Bootstrap">
+      <created>1635850873631</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635850873631</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +201,8 @@
     <MESSAGE value="Add classwork_4 and homework_5" />
     <MESSAGE value="correction of gratitude homework_5" />
     <MESSAGE value="Add homework_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework_5" />
+    <MESSAGE value="Add homework_6.1_Bootstrap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework_6.1_Bootstrap" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
