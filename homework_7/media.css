@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,700;1,900&display=swap');
+@media screen and (max-width: 400px){
+.header__top{
+    display: none;
+}
+.button{
+    margin-left: 10px;
+}
+.container_1{
+    margin-left: 10px;
+}
+.box, .work_time, .clock, .placeholder, .user, .user-entrance, .heart, .heart-like, .cart, .buy-cart{
+    display: none;
+}
+.input-group-text{
+    font-size: 15px;
+}
+.carousel-item{
+    margin-left: 10px;
+}
+.write{
+    width: 110px;
+    height: 70px;
+}
+.carousel-inner{
+width: 100%;
+}
+.carousel-inner{
+    margin-left: 5px;
+    width: 320px;
+}
+}

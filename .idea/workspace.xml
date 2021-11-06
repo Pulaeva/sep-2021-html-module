@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/index_6.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.1_Bootstrap/style_6.1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/image/Air_Colled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/image/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/image/Refrigeration_Systems_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_6.2_Вootstrap/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/Emblema_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/Mask_Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/placeholder 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/whatsapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/Group-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/Group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/avt-zap_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/avt-zap_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/avt-zap_main_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/placeholder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/price.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/user_1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_7/image/Emblema_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_7/image/Vector.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_7/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,6 +123,10 @@
       <workItem from="1635953689178" duration="2134000" />
       <workItem from="1636012221032" duration="14409000" />
       <workItem from="1636045639038" duration="13597000" />
+      <workItem from="1636123615863" duration="2313000" />
+      <workItem from="1636130917353" duration="602000" />
+      <workItem from="1636136653728" duration="10668000" />
+      <workItem from="1636198281836" duration="32249000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -186,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635850873631</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add homework_6.2 German site">
+      <created>1636123900911</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636123900911</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +214,8 @@
     <MESSAGE value="correction of gratitude homework_5" />
     <MESSAGE value="Add homework_5" />
     <MESSAGE value="Add homework_6.1_Bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework_6.1_Bootstrap" />
+    <MESSAGE value="Add homework_6.2 German site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework_6.2 German site" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

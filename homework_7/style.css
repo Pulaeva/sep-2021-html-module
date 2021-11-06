@@ -7,37 +7,31 @@
     flex-direction: initial;
     align-items: center;
 }
-
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link, nav-link dropdown-toggle {
     color: #FFFFFF;
 }
-
 .nav-link {
     color: #FFFFFF !important;
 }
-
 .navbar-collapse {
     justify-content: space-between;
 }
-
 .header__title {
-    height: 300px;
+    height: 200px;
     left: 1033px;
     top: 10px;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
-
 }
-
 .container_1 {
     display: flex;
     align-items: center;
     /*justify-content: space-between;*/
+    margin-left: 150px;
 }
 .box{
     font-size: 24px;
-
 }
 .clock{
     height: 32px;
@@ -52,12 +46,114 @@
 }
 .write{
     height: 30px;
-    width: 204px;
+    width: 220px;
     background-color: #E1EFD0;
     margin-left: 62px;
+
 }
 .phone, .forma{
     margin-left: 70px;
     font-size: 20px;
 }
-
+.app{
+    margin-right: 4px;
+    margin-left: 12px;
+}
+.button{
+    width: 164px;
+    height: 53px;
+    left: 283px;
+    top: 159px;
+    background: #005BB9;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 30px;
+    margin-left: 150px;
+}
+.input-group{
+    width: 549px;
+    height: 53px;
+}
+#input-group-right-example{
+    background: #005BB9;
+    border-radius: 0px 6px 6px 0px;
+    width: 101px;
+    margin-right: 100px;
+}
+.input-group-text{
+    font-size: 14px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-control{
+    background: #F4F5FA;
+}
+.text{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.img{
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.container_2{
+    display: flex;
+    align-items: center;
+}
+.user-entrance, .heard-like{
+    margin-right: 50px;
+}
+.user img, .heart img, .cart img{
+    margin-right: 16px;
+}
+.cart{
+    margin-left: 50px;
+}
+.header {
+    height: 390px;
+    margin-top: 30px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+.carousel-item{
+    width: 1142px;
+    height: 390px;
+    margin-left: 150px;
+}
+.carousel-control-prev{
+    margin-left: 100px;
+}
+.carousel-inner{
+    width: 1160px;
+}
+.box-action-1, .box-action-2{
+    width: 336px;
+    height: 190px;
+    background: #F4F5FA;
+    border-radius: 10px;
+}
+.carousel{
+    width: 1000px;
+}
+.box-action{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.button-action{
+    width: 50px;
+    height: 40px;
+    background: #005BB9;
+    border-radius: 6px;
+}
+.box-action-1{
+margin-bottom: 6px;
+}
