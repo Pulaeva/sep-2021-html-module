@@ -1,32 +1,85 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;1,700;1,900&display=swap');
-@media screen and (max-width: 400px){
-.header__top{
-    display: none;
+@media screen and (max-width: 320px) {
+    .header__top {
+        display: none;
+    }
+    .button {
+        margin-left: 10px;
+    }
+    .container_1 {
+        margin-left: 10px;
+    }
+    .box, .work_time, .clock, .placeholder, .user, .user-entrance, .heart, .heart-like, .cart, .buy-cart, .into {
+        display: none;
+    }
+.input-group{
+    width: 203px;
 }
-.button{
-    margin-left: 10px;
-}
-.container_1{
-    margin-left: 10px;
-}
-.box, .work_time, .clock, .placeholder, .user, .user-entrance, .heart, .heart-like, .cart, .buy-cart{
-    display: none;
-}
-.input-group-text{
-    font-size: 15px;
-}
-.carousel-item{
-    margin-left: 10px;
-}
-.write{
-    width: 110px;
-    height: 70px;
-}
-.carousel-inner{
-width: 100%;
-}
-.carousel-inner{
-    margin-left: 5px;
-    width: 320px;
-}
+    .input-group-text {
+        font-size: 15px;
+    }
+    .carousel-item {
+        margin-left: 10px;
+    }
+    .write {
+        width: 280px;
+        height: 50px;
+        margin-right: 20px;
+        margin-left: 10px;
+    }
+    .write text{
+        width: 132px;
+        height: 18px;
+    }
+    .carousel-inner {
+        margin-left: 5px;
+        width: 320px;
+    }
+    .carousel-item {
+        width: 290px;
+        height: 195px;
+    }
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: block;
+    }
+    .carousel-control-prev {
+        margin: 0;
+    }
+    .header {
+        flex-direction: column;
+        margin-right: unset;
+    }
+    .box-action-1, .box-action-2 {
+        width: 250px;
+        height: 145px;
+    }
+    .carousel {
+        width: unset;
+    }
+    .box-action-1 {
+        flex-direction: row;
+        margin-top: 10px;
+    }
+    .box-action-2{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .image_button {
+        width: 32px;
+        height: 32px;
+        float: right;
+    }
+    .box-action {
+        width: 600px;
+        flex-direction: row;
+        overflow: auto;
+    }
+    .box-action-overflow-container {
+        max-width: 320px;
+        overflow: auto;
+    }
+
 }

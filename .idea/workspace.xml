@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cf39d3a-caa4-4300-8db5-6d98b30334d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework_7/image/Group-button.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/Group.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/Heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/avt-zap_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/avt-zap_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/avt-zap_main_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/cart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/placeholder.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/price.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/image/user_1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework_7/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/in_mobile_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework_7/image/mobile_main.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_7/image/Emblema_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework_7/image/Vector.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework_7/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework_7/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework_7/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +115,10 @@
       <workItem from="1636123615863" duration="2313000" />
       <workItem from="1636130917353" duration="602000" />
       <workItem from="1636136653728" duration="10668000" />
-      <workItem from="1636198281836" duration="32249000" />
+      <workItem from="1636198281836" duration="32537000" />
+      <workItem from="1636300616139" duration="10757000" />
+      <workItem from="1636355368073" duration="3199000" />
+      <workItem from="1636367169569" duration="5516000" />
     </task>
     <task id="LOCAL-00001" summary="corrected Alt into image">
       <created>1634125557993</created>
@@ -198,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636123900911</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add homework_7 Project">
+      <created>1636237212496</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636237212496</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,7 +214,8 @@
     <MESSAGE value="Add homework_5" />
     <MESSAGE value="Add homework_6.1_Bootstrap" />
     <MESSAGE value="Add homework_6.2 German site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add homework_6.2 German site" />
+    <MESSAGE value="Add homework_7 Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add homework_7 Project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
